@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm Pradeep!
+I'm a Full-Stack Developer with a passion for building scalable applications, solving real-world problems, and continuously learning new technologies! 🚀
 
-<!--
-**pradeepmajji853/pradeepmajji853** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🔭 I’m currently working on a **student finance tracking app** to help students manage their budgets and savings.
+- 🌱 I’m currently learning more about **cybersecurity** and advanced **React** features.
+- 👯 I’m looking to collaborate on **MERN stack** and **open-source projects**.
+- 💬 Ask me about **Full-Stack Development**, **Docker**, or **Core Java**.
+- ⚡ I love hackathons and have even won one for my innovative solutions!
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Frontend:** React.js, Tailwind CSS, HTML/CSS, JavaScript  
+**Backend:** Node.js, Express.js, Flask  
+**Database:** MongoDB, MySQL  
+**Programming Languages:** JavaScript, Core Java  
+**DevOps/Tools:** Docker, Git/GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- 💼 LinkedIn: [linkedin.com/in/pradeepmajji](https://linkedin.com/in/pradeepmajji)  
+- 📂 GitHub: [github.com/PradeepMajji](https://github.com/PradeepMajji)
+
+## 📈 GitHub Stats
+![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=PradeepMajji&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepMajji&layout=compact&theme=radical)
+
+---
+
