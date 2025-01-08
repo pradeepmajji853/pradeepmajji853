@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Pradeep!
+# 👋I'm Pradeep!
 I'm a Full-Stack Developer with a passion for building scalable applications, solving real-world problems, and continuously learning new technologies! 🚀
 
 ## 🌟 About Me
@@ -18,10 +18,6 @@ I'm a Full-Stack Developer with a passion for building scalable applications, so
 ## 📫 How to Reach Me
 - 💼 LinkedIn: [linkedin.com/in/pradeepmajji](https://linkedin.com/in/pradeepmajji)  
 - 📂 GitHub: [github.com/PradeepMajji](https://github.com/PradeepMajji)
-
-## 📈 GitHub Stats
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=PradeepMajji&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepMajji&layout=compact&theme=radical)
 
 ---
 
