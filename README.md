@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pradeep Majji
 
-🎓 CSE student @ CBIT (C3) | 💻 MERN Stack Developer | ☁️ Cloud Enthusiast  
+🎓 CSE student @ CBIT  | 💻 MERN Stack Developer | ☁️ Cloud Enthusiast  
 🚀 Hackathon Finalist | 🧠 Exploring NLP, Knowledge Graphs, and Cybersecurity
 
 ---
