@@ -1,28 +1,44 @@
-# 👋 Hi, I'm Pradeep Majji
+# 👋 Hi, I'm Pradeep Majji  
 
-🎓 CSE student @ CBIT | 💻 MERN Stack Developer | ☁️ Cloud & Cybersecurity Enthusiast  
-🚀 Multi-Time Hackathon Winner | 🛡 Exploring **AI for Cybersecurity**, SOC Automation & NLP
+🎓 CSE student @ CBIT | 💻 MERN Stack & App Developer | ☁️ Cloud & Cybersecurity Enthusiast  
+🚀 Global Finalist @ NASA Space Apps Challenge | 🏆 Multi-Time National Hackathon Winner  
+🛡 President @ Digital Defence Club (Cybersecurity Club of CBIT) | 💼 App Developer @ Trovo Fi Pvt. Ltd.  
 
 ---
 
 ## 🚀 About Me  
 
-I'm a passionate developer and hackathon enthusiast who thrives on solving real-world problems with technology. My journey spans across **cybersecurity, AI agents, NLP, and cloud infrastructure**—building solutions that empower organizations and individuals. Whether it’s **defence-grade SOC copilots** or **AI for science & sustainability**, I aim to bridge innovation with impact.  
+I'm a passionate developer, **hackathon enthusiast**, and **community builder** who thrives on solving real-world problems with technology.  
+
+- 💼 Currently working as an **App Developer at Trovo Fi Pvt. Ltd.**  
+- 🌍 **Global Finalist at NASA Space Apps Challenge**  
+- 🏆 **Winner of multiple national-level hackathons** across AI, cybersecurity, and sustainability domains  
+- 🛡 Serving as **President of Digital Defence Club, CBIT** — empowering students in **cybersecurity & blockchain**  
+- 🌐 My journey spans **cybersecurity, AI agents, NLP, and cloud infrastructure** — building impactful solutions from **defence-grade SOC copilots** to **sustainability platforms**  
 
 ---
 
-## 🏆 Featured Projects  
+## 🏆 Achievements & Community Leadership  
+
+- 🥇 **Multiple National Hackathon Wins** (AI, Cybersecurity, EdTech, Sustainability)  
+- 🌍 **NASA Space Apps Global Finalist** (SDG 14 Ocean Sustainability)  
+- 👨‍💼 **President of Digital Defence Club, CBIT** — organized workshops, hackathons & cybersecurity events  
+- 💼 **App Developer @ Trovo Fi Pvt. Ltd.** — contributing to production-ready applications  
+
+---
+
+## 📌 Featured Projects  
 
 ### 🛡 Copilot for Defence/Military SOCs  
 > ⚔️ AI-driven SOC automation project  
-Built to support **Security Operations Centers (SOCs)** in the **defence & military domain**. Uses **AI agents, NLP, and cybersecurity analytics** to detect anomalies, recommend responses, and act as a **copilot for analysts**. Designed to strengthen cyber resilience against modern threats.  
+Built to support **Security Operations Centers (SOCs)** in the **defence & military domain**. Uses **AI agents, NLP, and cybersecurity analytics** to detect anomalies, recommend responses, and act as a **copilot for analysts**.  
 
 ### 🧬 Aminoverse  
 > 🥇 Winner @ Mahindra University Hackathon  
 An intelligent chatbot that simplifies **proteins and genes** understanding using **NLP** and **knowledge graphs**. Helps researchers and students navigate complex biological data through conversational AI.  
 
 ### 🌊 SDG 14 Education Platform  
-> 🌍 Finalist @ NASA Space Apps Challenge  
+> 🌍 Global Finalist @ NASA Space Apps Challenge  
 An interactive platform to **educate students on ocean sustainability (SDG14)**. Combines **gamification, awareness modules, and real-time learning** to spread knowledge about preserving marine life and ecosystems.  
 
 ---
@@ -55,4 +71,4 @@ An interactive platform to **educate students on ocean sustainability (SDG14)**.
 ---
 
 > _“Hackathons aren't just about winning — they’re about building what matters.”_  
-> — Pradeep Majji
+> — Pradeep Majji  
