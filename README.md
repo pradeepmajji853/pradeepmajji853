@@ -166,13 +166,3 @@ https://github.com/pradeepmajji853/Scalable-URL-Management-Platform
 📧 **Email:** pradeepmajji853@gmail.com
 
 ---
-
-### Profile Views
-
-![](https://komarev.com/ghpvc/?username=pradeepmajji853&style=for-the-badge)
-
-### GitHub Stats
-
-![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepmajji853&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmajji853&layout=compact)
