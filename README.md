@@ -77,24 +77,6 @@ Currently working on:
 
 ---
 
-## 🚀 Featured Projects
-
-<!--
-Replace `REPO_NAME` with the exact public repository name.
--->
-
-<p align="center">
-  <a href="https://github.com/pradeepmajji853/Tranformer-based-web-application-firewall-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeepmajji853&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pradeepmajji853/Scalable-URL-Management-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeepmajji853&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ## 💼 Experience
@@ -131,14 +113,6 @@ Replace `REPO_NAME` with the exact public repository name.
 - 💻 Solved **500+ DSA Problems**
 - 🚀 Built production-ready backend & AI applications
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepmajji853&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmajji853&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
