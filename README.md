@@ -1,168 +1,246 @@
-# Hi, I'm Pradeep Majji 👋
+<div align="center">
 
-Backend Engineer, Startup Builder, and Cybersecurity Enthusiast.
+# Hi 👋 I'm Majji Pradeep Kumar
 
-Currently pursuing a B.E. in Computer Science at CBIT, Hyderabad. I enjoy building scalable backend systems, AI-powered applications, cybersecurity platforms, and developer-focused products.
+### Backend Engineer • AI Engineer • Distributed Systems
 
-My interests lie at the intersection of:
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;AI+Engineer;Building+Production+Grade+Systems;LangChain+%7C+LangGraph+%7C+LLMs;Node.js+%7C+Java+%7C+Python;Always+Building+🚀" />
 
-- Backend Engineering
-- Distributed Systems
-- Artificial Intelligence
-- Cybersecurity
-- Cloud Infrastructure
+<p>
 
----
+<a href="https://github.com/pradeepmajji853">
+<img src="https://img.shields.io/github/followers/pradeepmajji853?label=Followers&style=for-the-badge&logo=github"/>
+</a>
 
-## 🚀 Experience
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### Co-Founder & Platform Engineer | CyberMindSpace
+<a href="mailto:pradeepmajji853@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-Building a cybersecurity learning and tooling platform focused on ethical hacking, bug bounty hunting, and security education.
+<img src="https://komarev.com/ghpvc/?username=pradeepmajji853&style=for-the-badge&color=blue"/>
 
-#### Key Contributions
+</p>
 
-- Developed and maintained backend services powering subscriptions, authentication, content delivery, and learner management.
-- Integrated payment systems, access control mechanisms, and user management workflows.
-- Built AI-powered learning assistants and security-focused automation tools.
-- Designed scalable APIs and database architectures supporting platform growth.
-- Led technical execution for product launches, platform infrastructure, and feature development.
+</div>
 
 ---
 
-### Software Development Engineer Intern | TrovoFi
+# 🚀 About Me
 
-Worked within the founding team during the company's early-stage growth.
+```yaml
+Name: Majji Pradeep Kumar
 
-#### Key Contributions
+Role:
+  - Backend Engineer
+  - AI Engineer
 
-- Developed backend services and REST APIs.
-- Implemented authentication and authorization workflows.
-- Designed database schemas and optimized application performance.
-- Collaborated on product features across the platform stack.
+Education:
+  - B.E. Computer Science
+  - Chaitanya Bharathi Institute of Technology
 
----
+Currently Building:
+  - AI Agents
+  - RAG Applications
+  - Backend Systems
+  - Distributed Platforms
 
-## 🛠 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Interested In:
+  - Artificial Intelligence
+  - Distributed Systems
+  - System Design
+  - Cloud Infrastructure
+  - Backend Engineering
+```
 
 ---
 
-## 🔥 Featured Projects
+# 💻 Tech Stack
 
-### 🛡️ Transformer-Based Web Application Firewall
+<p align="center">
 
-AI-powered Web Application Firewall designed to detect modern web attacks using Transformer architectures instead of traditional signature-based approaches.
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,nodejs,express,react,fastapi,postgres,mysql,mongodb,redis,docker,aws,linux,git,github,githubactions,firebase,pytorch&perline=10"/>
 
-#### Features
-
-- SQL Injection Detection
-- Cross-Site Scripting (XSS) Detection
-- Path Traversal Detection
-- Transformer-Based Request Classification
-- Federated Learning Architecture
-- Real-Time Threat Analysis Pipeline
-- Privacy-Preserving Model Updates
-
-#### Tech Stack
-
-`Python` • `PyTorch` • `FastAPI` • `Flask` • `Federated Learning`
-
-🔗 Repository:  
-https://github.com/pradeepmajji853/Tranformer-based-web-application-firewall-pipeline
+</p>
 
 ---
 
-### 🔗 Linkly — Scalable URL Management Platform
+# 🤖 AI Stack
 
-A production-grade URL shortening and analytics platform inspired by Bitly, built with scalability, observability, and performance in mind.
+<p align="center">
 
-#### Features
+<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,huggingface,pytorch"/>
 
-- URL Shortening
-- Custom Aliases
-- JWT Authentication
-- Analytics Dashboard
+</p>
+
+### AI Engineering
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- LangGraph
+- AI Agents
+- Tool Calling
+- Vector Search
+- Prompt Engineering
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡 AI Powered Web Application Firewall
+
+> Transformer-based intelligent WAF capable of detecting SQL Injection, XSS and Path Traversal attacks.
+
+### Stack
+
+Python • FastAPI • PyTorch • Apache Spark
+
+🔗 https://github.com/pradeepmajji853/Tranformer-based-web-application-firewall-pipeline
+
+---
+
+## 🔗 Linkly — Distributed URL Management Platform
+
+Production-ready URL shortening platform supporting
+
+- Analytics
 - Redis Caching
-- Rate Limiting
-- QR Code Generation
-- Background Job Processing
-- Dockerized Infrastructure
-- CI/CD Pipelines
-
-#### Architecture
-
-- React Frontend
-- Node.js Backend
+- Docker Deployment
+- AWS Hosting
 - PostgreSQL
-- Redis
-- BullMQ
-- Docker
-- GitHub Actions
+- QR Generation
 
-#### Engineering Highlights
+### Stack
 
-- Layered Backend Architecture
-- RESTful APIs
-- Redis-Based Caching
-- Queue-Based Analytics Processing
-- Dockerized Services
-- Automated CI/CD Workflows
-- Production-Ready Deployment Setup
+Node.js • React • PostgreSQL • Redis • Docker
 
-🔗 Repository:  
-https://github.com/pradeepmajji853/Scalable-URL-Management-Platform
+🔗 https://github.com/pradeepmajji853/Scalable-URL-Management-Platform
 
 ---
 
-## 📚 Currently Learning
+# 💼 Experience
 
-- Distributed Systems Design
-- Agentic AI & LLM Workflows
-- Cloud Security
-- DevSecOps
-- High-Performance Backend Systems
+## 🚀 CyberMindSpace
+
+**Founding Backend Engineer**
+
+- Production Backend Development
+- REST APIs
+- Subscription Systems
+- Redis Optimization
+- PostgreSQL Performance
+- Secure Video Delivery
+- AI Agent Development
+- LangGraph Workflows
+- RAG Pipelines
+- AWS Deployment
 
 ---
 
-## 📫 Connect With Me
+## 💳 TrovoFi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradeep%20Majji-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pradeep-majji-44009a2b5)
+**Software Development Engineer Intern**
 
-📧 **Email:** pradeepmajji853@gmail.com
+Worked on
+
+- Backend APIs
+- Payment Systems
+- Rewards Engine
+- SQL Optimization
+- Production Debugging
+- REST Architecture
 
 ---
+
+# 🏆 Achievements
+
+🥇 NASA Space Apps Challenge 2024 — Global Finalist
+
+🥈 Smart India Hackathon 2024 — National Finalist
+
+💻 Solved 500+ DSA Problems
+
+🚀 Built multiple production-ready backend systems
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepmajji853&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmajji853&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepmajji853&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepmajji853&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pradeepmajji853&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced System Design
+- Multi-Agent AI Systems
+- Model Context Protocol (MCP)
+- Kubernetes
+- High Scale Backend Architecture
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:pradeepmajji853@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/pradeepmajji853">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Building scalable software powered by AI and distributed systems.
+
+</div>
