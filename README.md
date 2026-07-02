@@ -1,28 +1,28 @@
 <div align="center">
 
-# Hi 👋 I'm Majji Pradeep Kumar
+# Hi 👋, I'm Majji Pradeep Kumar
 
-### Backend Engineer • AI Engineer • Distributed Systems
+### Backend Engineer | AI Engineer | Building Scalable Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;AI+Engineer;Building+Production+Grade+Systems;LangChain+%7C+LangGraph+%7C+LLMs;Node.js+%7C+Java+%7C+Python;Always+Building+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;AI+Engineer;Building+Production+Grade+Systems;LangChain+%7C+LangGraph+%7C+LLMs;Java+%7C+Node.js+%7C+Python;Always+Learning+Something+New+🚀" />
 
-<p>
+<br>
 
-<a href="https://github.com/pradeepmajji853">
-<img src="https://img.shields.io/github/followers/pradeepmajji853?label=Followers&style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/pradeep-majji-44009a2b5/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+&nbsp;&nbsp;
 
 <a href="mailto:pradeepmajji853@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=pradeepmajji853&style=for-the-badge&color=blue"/>
+&nbsp;&nbsp;
 
-</p>
+<a href="https://github.com/pradeepmajji853">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
 </div>
 
@@ -30,144 +30,115 @@
 
 # 🚀 About Me
 
-```yaml
-Name: Majji Pradeep Kumar
+I'm **Majji Pradeep Kumar**, a Computer Science student at **CBIT** and a **Backend Engineer** passionate about building scalable software, AI-powered applications, and distributed systems.
 
-Role:
-  - Backend Engineer
-  - AI Engineer
+Currently working on:
 
-Education:
-  - B.E. Computer Science
-  - Chaitanya Bharathi Institute of Technology
-
-Currently Building:
-  - AI Agents
-  - RAG Applications
-  - Backend Systems
-  - Distributed Platforms
-
-Interested In:
-  - Artificial Intelligence
-  - Distributed Systems
-  - System Design
-  - Cloud Infrastructure
-  - Backend Engineering
-```
+- 🤖 AI Agents & LLM Applications
+- 🧠 Retrieval-Augmented Generation (RAG)
+- ⚙️ Production Backend Systems
+- ☁️ Cloud & Distributed Infrastructure
+- 🚀 High Performance APIs
+- 📈 Scalable Architectures
 
 ---
 
 # 💻 Tech Stack
 
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql,bash"/>
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+## AI & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,nodejs,express,react,fastapi,postgres,mysql,mongodb,redis,docker,aws,linux,git,github,githubactions,firebase,pytorch&perline=10"/>
+LangChain • LangGraph • RAG • LLM APIs • AI Agents • Vector Search
 
 </p>
 
----
-
-# 🤖 AI Stack
+## Databases
 
 <p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,huggingface,pytorch"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
 </p>
 
-### AI Engineering
+## Cloud & DevOps
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- LangGraph
-- AI Agents
-- Tool Calling
-- Vector Search
-- Prompt Engineering
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions,firebase"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡 AI Powered Web Application Firewall
+<p align="center">
 
-> Transformer-based intelligent WAF capable of detecting SQL Injection, XSS and Path Traversal attacks.
+<a href="https://github.com/pradeepmajji853/Tranformer-based-web-application-firewall-pipeline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeepmajji853&repo=Tranformer-based-web-application-firewall-pipeline&theme=tokyonight&hide_border=true"/>
+</a>
 
-### Stack
+<a href="https://github.com/pradeepmajji853/Scalable-URL-Management-Platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeepmajji853&repo=Scalable-URL-Management-Platform&theme=tokyonight&hide_border=true"/>
+</a>
 
-Python • FastAPI • PyTorch • Apache Spark
-
-🔗 https://github.com/pradeepmajji853/Tranformer-based-web-application-firewall-pipeline
-
----
-
-## 🔗 Linkly — Distributed URL Management Platform
-
-Production-ready URL shortening platform supporting
-
-- Analytics
-- Redis Caching
-- Docker Deployment
-- AWS Hosting
-- PostgreSQL
-- QR Generation
-
-### Stack
-
-Node.js • React • PostgreSQL • Redis • Docker
-
-🔗 https://github.com/pradeepmajji853/Scalable-URL-Management-Platform
+</p>
 
 ---
 
 # 💼 Experience
 
-## 🚀 CyberMindSpace
+## 🚀 Founding Backend Engineer — CyberMindSpace
 
-**Founding Backend Engineer**
-
-- Production Backend Development
-- REST APIs
-- Subscription Systems
-- Redis Optimization
-- PostgreSQL Performance
+- Production-grade REST APIs
+- AI-powered platform features
+- LangChain & LangGraph
+- Retrieval-Augmented Generation (RAG)
+- PostgreSQL Optimization
+- Redis Caching
 - Secure Video Delivery
-- AI Agent Development
-- LangGraph Workflows
-- RAG Pipelines
 - AWS Deployment
+- Backend Architecture
 
 ---
 
-## 💳 TrovoFi
+## 💳 Software Development Engineer Intern — TrovoFi
 
-**Software Development Engineer Intern**
-
-Worked on
-
-- Backend APIs
+- Backend Development
 - Payment Systems
-- Rewards Engine
+- REST APIs
 - SQL Optimization
 - Production Debugging
-- REST Architecture
+- Performance Improvements
 
 ---
 
 # 🏆 Achievements
 
-🥇 NASA Space Apps Challenge 2024 — Global Finalist
+🥇 Global Finalist — NASA Space Apps Challenge 2024
 
-🥈 Smart India Hackathon 2024 — National Finalist
+🥈 National Finalist — Smart India Hackathon 2024
 
-💻 Solved 500+ DSA Problems
+💻 Solved **500+ DSA Problems**
 
-🚀 Built multiple production-ready backend systems
+🚀 Built Production-Ready Backend & AI Applications
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -189,7 +160,7 @@ Worked on
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -203,33 +174,38 @@ Worked on
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pradeepmajji853&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pradeepmajji853&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Exploring
 
-- Advanced System Design
 - Multi-Agent AI Systems
 - Model Context Protocol (MCP)
+- Advanced System Design
 - Kubernetes
-- High Scale Backend Architecture
+- Distributed Databases
+- Cloud Native Applications
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
 
 <a href="mailto:pradeepmajji853@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/pradeep-majji-44009a2b5/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/pradeepmajji853">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -241,6 +217,6 @@ Worked on
 
 <div align="center">
 
-### ⭐ Building scalable software powered by AI and distributed systems.
+### ⭐ "Building scalable backend systems and AI-powered applications that solve real-world problems."
 
 </div>
