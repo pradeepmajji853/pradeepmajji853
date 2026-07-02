@@ -1,36 +1,32 @@
 <div align="center">
 
-# Hi 👋, I'm Majji Pradeep Kumar
+# Hi 👋 I'm Majji Pradeep Kumar
 
-### Backend Engineer | AI Engineer | Building Scalable Systems
+### Backend Engineer • AI Engineer • Building Scalable Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;AI+Engineer;Building+Production+Grade+Systems;LangChain+%7C+LangGraph+%7C+LLMs;Java+%7C+Node.js+%7C+Python;Always+Learning+Something+New+🚀" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;AI+Engineer;Building+Production-Grade+Systems;Java+%7C+Node.js+%7C+Python;LangChain+%7C+LangGraph+%7C+LLMs)](https://git.io/typing-svg)
 
-<br>
-
-<a href="https://www.linkedin.com/in/pradeep-majji-44009a2b5/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:pradeepmajji853@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/pradeepmajji853">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradeep-majji-44009a2b5/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:pradeepmajji853@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pradeepmajji853">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm **Majji Pradeep Kumar**, a Computer Science student at **CBIT** and a **Backend Engineer** passionate about building scalable software, AI-powered applications, and distributed systems.
+I'm **Majji Pradeep Kumar**, a Computer Science student at **CBIT** and a Backend Engineer passionate about building scalable software, AI-powered applications, and distributed systems.
 
 Currently working on:
 
@@ -43,65 +39,67 @@ Currently working on:
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## Languages
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql,bash"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql,bash" />
 </p>
 
-## Backend
+### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-## AI & Machine Learning
+### AI & Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
 <p align="center">
-
-LangChain • LangGraph • RAG • LLM APIs • AI Agents • Vector Search
-
+  LangChain • LangGraph • RAG • LLM APIs • AI Agents • Vector Search
 </p>
 
-## Databases
+### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions,firebase"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/pradeepmajji853/Tranformer-based-web-application-firewall-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeepmajji853&repo=Tranformer-based-web-application-firewall-pipeline&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/pradeepmajji853/Scalable-URL-Management-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeepmajji853&repo=Scalable-URL-Management-Platform&theme=tokyonight&hide_border=true"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions,firebase" />
 </p>
 
 ---
 
-# 💼 Experience
+## 🚀 Featured Projects
 
-## 🚀 Founding Backend Engineer — CyberMindSpace
+<!--
+Replace `REPO_NAME` with the exact public repository name.
+-->
+
+<p align="center">
+  <a href="https://github.com/pradeepmajji853/Tranformer-based-web-application-firewall-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeepmajji853&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pradeepmajji853/Scalable-URL-Management-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradeepmajji853&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 💼 Experience
+
+### 🚀 Founding Backend Engineer — CyberMindSpace
 
 - Production-grade REST APIs
 - AI-powered platform features
@@ -115,7 +113,7 @@ LangChain • LangGraph • RAG • LLM APIs • AI Agents • Vector Search
 
 ---
 
-## 💳 Software Development Engineer Intern — TrovoFi
+### 💳 Software Development Engineer Intern — TrovoFi
 
 - Backend Development
 - Payment Systems
@@ -126,61 +124,41 @@ LangChain • LangGraph • RAG • LLM APIs • AI Agents • Vector Search
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-🥇 Global Finalist — NASA Space Apps Challenge 2024
-
-🥈 National Finalist — Smart India Hackathon 2024
-
-💻 Solved **500+ DSA Problems**
-
-🚀 Built Production-Ready Backend & AI Applications
+- 🥇 Global Finalist — NASA Space Apps Challenge 2024
+- 🥈 National Finalist — Smart India Hackathon 2024
+- 💻 Solved **500+ DSA Problems**
+- 🚀 Built production-ready backend & AI applications
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepmajji853&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmajji853&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepmajji853&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmajji853&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepmajji853&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepmajji853&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepmajji853&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepmajji853&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pradeepmajji853&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 - Multi-Agent AI Systems
 - Model Context Protocol (MCP)
@@ -191,32 +169,26 @@ LangChain • LangGraph • RAG • LLM APIs • AI Agents • Vector Search
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
-
-<a href="mailto:pradeepmajji853@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/pradeep-majji-44009a2b5/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/pradeepmajji853">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+  <a href="mailto:pradeepmajji853@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pradeep-majji-44009a2b5/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pradeepmajji853">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Building scalable backend systems and AI-powered applications that solve real-world problems."
+> ⭐ Building scalable backend systems and AI-powered applications that solve real-world problems.
 
 </div>
