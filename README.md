@@ -1,168 +1,44 @@
-<div align="center">
+# Pradeep Majji
 
-# Hi 👋 I'm Majji Pradeep Kumar
+**Co-Founder, CyberMindSpace · Software Engineering · DevRel · Security Research**
 
-### Backend Engineer • AI Engineer • Building Scalable Systems
+I build developer-facing systems across cybersecurity, AI and backend infrastructure, with a focus on making security systems reproducible, testable and measurable.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;AI+Engineer;Building+Production-Grade+Systems;Java+%7C+Node.js+%7C+Python;LangChain+%7C+LangGraph+%7C+LLMs)](https://git.io/typing-svg)
+At **CyberMindSpace**, I work across engineering, security infrastructure, developer experience and technical community initiatives.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pradeep-majji-44009a2b5/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:pradeepmajji853@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/pradeepmajji853">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-</p>
+## Current Work
 
-</div>
+### CyberMindSpace Labs
+Security research and infrastructure for reproducible security experimentation.
 
----
+Current work includes tool-using agents, security evaluation, evidence collection, dynamic security environments and experimental infrastructure.
 
-## 🚀 About Me
+**Labs:** https://labs.cybermindspace.com  
+**Research Thesis:** https://labs.cybermindspace.com/research/thesis
 
-I'm **Majji Pradeep Kumar**, a Computer Science student at **CBIT** and a Backend Engineer passionate about building scalable software, AI-powered applications, and distributed systems.
+### MERENIC
+An experimental protocol for evaluating engineering work beyond the final prototype.
 
-Currently working on:
+MERENIC focuses on engineering decisions, evidence, trade-offs, system behaviour under changing conditions, and reproducible evaluation.
 
-- 🤖 AI Agents & LLM Applications
-- 🧠 Retrieval-Augmented Generation (RAG)
-- ⚙️ Production Backend Systems
-- ☁️ Cloud & Distributed Infrastructure
-- 🚀 High Performance APIs
-- 📈 Scalable Architectures
+**Research:** https://merenic.com
 
----
+### Developer Relations & Open Source
+I work on technical DevRel through SDKs, APIs, developer tooling, open-source contributions, technical writing and developer communities.
 
-## 💻 Tech Stack
+Recent work includes building and testing a TypeScript SDK for Resend using Voxgig's `sdkgen`, validating it against the live API, and contributing reproducible DX findings back to the upstream project.
 
-### Languages
+**Implementation:** https://github.com/pradeepmajji853/resend-sdk-voxgig
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql,bash" />
-</p>
+## Selected Engineering
 
-### Backend
+- **Transformer-based WAF** — ML-based detection for SQL injection, XSS and path traversal, with federated learning experiments.
+- **Scalable URL Management Platform** — Node.js, PostgreSQL, Redis and BullMQ backend designed around high-throughput URL operations.
+- **Security & AI Systems** — RAG, agents, tool calling, retrieval systems and security experimentation infrastructure.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+## Links
 
-### AI & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-<p align="center">
-  LangChain • LangGraph • RAG • LLM APIs • AI Agents • Vector Search
-</p>
-
-### Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions,firebase" />
-</p>
-
----
-
----
-
-## 💼 Experience
-
-### 🚀 Founding Backend Engineer — CyberMindSpace
-
-- Production-grade REST APIs
-- AI-powered platform features
-- LangChain & LangGraph
-- Retrieval-Augmented Generation (RAG)
-- PostgreSQL Optimization
-- Redis Caching
-- Secure Video Delivery
-- AWS Deployment
-- Backend Architecture
-
----
-
-### 💳 Software Development Engineer Intern — TrovoFi
-
-- Backend Development
-- Payment Systems
-- REST APIs
-- SQL Optimization
-- Production Debugging
-- Performance Improvements
-
----
-
-## 🏆 Achievements
-
-- 🥇 Global Finalist — NASA Space Apps Challenge 2024
-- 🥈 National Finalist — Smart India Hackathon 2024
-- 💻 Solved **500+ DSA Problems**
-- 🚀 Built production-ready backend & AI applications
-
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepmajji853&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepmajji853&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-- Multi-Agent AI Systems
-- Model Context Protocol (MCP)
-- Advanced System Design
-- Kubernetes
-- Distributed Databases
-- Cloud Native Applications
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:pradeepmajji853@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/pradeep-majji-44009a2b5/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/pradeepmajji853">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-> ⭐ Building scalable backend systems and AI-powered applications that solve real-world problems.
-
-</div>
+**CyberMindSpace:** https://cybermindspace.com  
+**Labs:** https://labs.cybermindspace.com  
+**MERENIC:** https://merenic.com  
+**LinkedIn:** https://www.linkedin.com/in/pradeep-majji-44009a2b5/
